@@ -1,8 +1,12 @@
-## Bem vindo, me chamo Fábio Guimarães 😄
+<div>
+  <h1>Bem vindo, me chamo Fábio Guimarães 😄</h1>
+</div>
 
 <div>
-  <p> 📘 Estudando para ser um desenvolvedor Full Stack</p>
-  <p> 👨‍🎓 Ciência da Computação - Atitus</p>
+  <p>
+    <li> 📘 Estudando para ser um desenvolvedor Full Stack</li>
+    <li> 👨‍🎓 Ciência da Computação - Atitus</li>
+  <p>
 </div>
 
 <div>
@@ -14,14 +18,16 @@
   <h2>Skills</h2>
   <h3> 💻 Programing Languages </h3>
   <img align="center" alt="Fabio-Python" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Fabio-JS" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
 
   <h3> 📱 FrontEnd </h3>
   <img align="center" alt="Fabio-HTML" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Fabio-CSS" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="Fabio-JS" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Fabio-Handlebars" height="80" width="90" src="https://icongr.am/devicon/handlebars-original.svg?size=128&color=ffffff">
+  
   
   <h3> 📂 Frameworks </h3>
-  <img align="center" alt="Fabio-Django" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
+  <img align="center" alt="Fabio-Django" height="110" width="130" src="https://icongr.am/devicon/django-original.svg?size=128&color=ffffff">
 
   <h3> 🗃 Databases </h3>
   <img align="center" alt="Fabio-Mysql" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
@@ -35,7 +41,8 @@
   <img align="center" alt="Fabio-VSCode" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   <img align="center" alt="Fabio-Visualstudio" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
   <img align="center" alt="Fabio-Pycharm" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg">
-  <img align="center" alt="Fabio-git" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  <img align="center" alt="Fabio-git" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="Fabio-git-hub" height="80" width="90" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF">
 </div>
 
 <!--
