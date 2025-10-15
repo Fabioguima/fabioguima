@@ -28,6 +28,7 @@
   
   <h3> 📂 Frameworks </h3>
   <img align="center" alt="Fabio-Django" height="110" width="130" src="https://icongr.am/devicon/django-original.svg?size=128&color=ffffff">
+  <img align="center" alt="Fabio-Fastapi" height="80" width="90"src="https://devicon-website.vercel.app/api/fastapi/original.svg">
 
   <h3> 🗃 Databases </h3>
   <img align="center" alt="Fabio-Mysql" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
