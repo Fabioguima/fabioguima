@@ -23,6 +23,7 @@
   <h3> 📱 FrontEnd </h3>
   <img align="center" alt="Fabio-HTML" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Fabio-CSS" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="Fabio-React" height="80" width="90" src="https://devicon-website.vercel.app/api/react/original.svg"">
   <img align="center" alt="Fabio-Handlebars" height="80" width="90" src="https://icongr.am/devicon/handlebars-original.svg?size=128&color=ffffff">
   
   
